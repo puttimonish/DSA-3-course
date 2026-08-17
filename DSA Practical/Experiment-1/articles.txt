@@ -1,1 +1,7 @@
+Introduction to Data Structures
 
+Data structures are ways of organizing and storing data efficiently. Common data structures include arrays, linked lists, stacks, queues, trees, and graphs. Choosing the correct data structure helps improve the performance of a program.
+
+Algorithms and Problem Solving
+
+An algorithm is a step-by-step procedure used to solve a problem. Data structures and algorithms work together to make programs efficient. Searching, sorting, and traversal are common algorithmic operations used in computer science.
