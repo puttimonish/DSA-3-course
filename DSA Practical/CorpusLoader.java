@@ -35,8 +35,7 @@ public class CorpusLoader {
 
         ArrayList<Article> repository = new ArrayList<>();
 
-        String[] files = { "a1.txt", "a2.txt" };
-
+       String[] files = { "articles.txt" };
         int id = 101;
 
         int totalWords = 0;
@@ -45,7 +44,7 @@ public class CorpusLoader {
 
             try {
 
-                File file = new File("Corpus/" + fileName);
+                File file = new File(fileName);
 
                 BufferedReader br = new BufferedReader(
                         new FileReader(file));
